@@ -87,6 +87,3 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
-
-Last Edited on: 26/11/2020
