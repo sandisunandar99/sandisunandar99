@@ -5,8 +5,8 @@
 Hi, I’m Software Engineer with 9 years of experience in Web Application and team leadership across tech startups, corporate, and government sectors. Proficient in Node.js, PHP, and Golang, with additional experience as Automation or AI Engineer using N8N tool. In the past two years, I'm try new challange into an Engineering Manager role, focusing on team development, technical strategy, and system scalability. Passionate about building high-performance, scalable applications and mentoring engineering teams.
 
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=sandisunandar99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandisunandar99&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=sandisunandar99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=fcfcfc&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandisunandar99&layout=compact&text_color=daf7dc&bg_color=fcfcfc)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
