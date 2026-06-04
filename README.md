@@ -2,11 +2,10 @@
 
 ### 🤵 About Me:
 
-Hi, I’m Software Engineer with 9 years of experience in Web Application and team leadership across tech startups, corporate, and government sectors. Proficient in Node.js, PHP, and Golang, with additional experience as Automation or AI Engineer using N8N tool. In the past two years, I'm try new challange into an Engineering Manager role, focusing on team development, technical strategy, and system scalability. Passionate about building high-performance, scalable applications and mentoring engineering teams.
-
+Hi, I’m Software Engineer (fullstack dev) with 9 years of experience in Web Application and team leadership across tech startups, corporate, and government sectors. Proficient in Node.js, PHP, and Golang for backend and Nuxt.Js, Next.Js for modern Frontend Framework. Additional experience as Automation or AI Engineer using N8N tool. Passionate about building high-performance, scalable applications.
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=sandisunandar99&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=077bf0&bg_color=fcfcfc&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandisunandar99&layout=compact&text_color=077bf0&bg_color=fcfcfc)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.shion.dev/api?username=sandisunandar99&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sandisunandar99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://streak-stats.demolab.com/?user=sandisunandar99&theme=dark&hide_border=false)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
